@@ -11,6 +11,7 @@
 🔗 LinkedIn | https://www.linkedin.com/in/gargi07
 
 🚀 What I Do
+
 Backend development with Java, Spring Boot, and Hibernate
 
 Build scalable, efficient RESTful APIs
@@ -20,6 +21,7 @@ Implement smart solutions like AOP-based activity logging and email verification
 Optimize performance with pagination, dynamic filtering, and dashboard analytics
 
 🛠️ Tech Stack
+
 Languages & Frameworks: Java, Spring Boot, Hibernate (JPA)
 
 Databases: MySQL, PostgreSQL
