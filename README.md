@@ -12,24 +12,35 @@
 
 🚀 What I Do
 
-Backend development with Java, Spring Boot, and Hibernate
+💻 Backend Development using Java, Spring Boot, and Hibernate (JPA)
 
-Build scalable, efficient RESTful APIs
+🔧 Build scalable, efficient RESTful APIs for high-throughput systems
 
-Implement smart solutions like AOP-based activity logging and email verification systems
+🛡️ Implement smart solutions like:
 
-Optimize performance with pagination, dynamic filtering, and dashboard analytics
+AOP-based activity logging for audit trails
 
-🛠️ Tech Stack
+Token-based email verification systems for secure onboarding
 
-Languages & Frameworks: Java, Spring Boot, Hibernate (JPA)
+⚡ Optimize performance with:
 
-Databases: MySQL, PostgreSQL
+Pagination and dynamic filtering
 
-CS Fundamentals: DSA, OOPS, DBMS, Multithreading
+Real-time dashboard analytics for tracking key business metrics
 
-Tools: REST APIs, Postman, Swagger, Git, GitHub Actions
+🔧 Technical Skills
 
+Languages & Frameworks:
+ Java, Spring Boot, Hibernate (JPA)
+
+Databases:
+ MySQL, PostgreSQL
+
+CS Fundamentals:
+ Data Structures & Algorithms, DBMS, OOPs, Multithreading
+
+Tools & Technologies:
+ REST APIs, Postman, Swagger, Git, GitHub Actions
 
 I’m passionate about writing clean, scalable code and building reliable backend systems that power real-world applications.
 
